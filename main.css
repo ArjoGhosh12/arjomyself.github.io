@@ -21,6 +21,7 @@ body {
 	color: #FFF;
 	background-image:
 	 url("https://static01.nyt.com/images/2019/02/03/travel/03frugal-srilanka01/merlin_148552275_74c0d250-949c-46e0-b8a1-e6d499e992cf-jumbo.jpg?quality=75&auto=webp");
+         background-size:cover;
 }
 
 header {
